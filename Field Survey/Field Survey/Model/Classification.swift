@@ -1,9 +1,9 @@
 //
-//  Animal.swift
+//  Classification.swift
 //  Field Survey
 //
-//  Created by weizsw on 7/21/17.
-//  Copyright © 2017 Shaowei Zhou. All rights reserved.
+//  Created by Yaoxuan Luan on 11/3/17.
+//  Copyright © 2017 Yaoxuan Luan. All rights reserved.
 //
 
 import UIKit
